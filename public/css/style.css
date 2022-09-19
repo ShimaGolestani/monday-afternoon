@@ -1,0 +1,17 @@
+﻿@import url(fontiran.css); /* لینک فایلی که وظیفه بارگذاری فونت ها را برعهده دارد */
+body {
+	font-family: iranyekan ,roboto ,Arial !important;
+	direction: rtl;	
+	background-color: white !important;
+	
+}
+*,h1, h2, h3, h4, h5, h6,input, textarea,ul,li {
+	font-family: iranyekan ,roboto ,Arial !important;
+	margin:0px;
+	padding: 0px;
+	outline:none !important;
+}
+li
+{
+	list-style: none;
+}
